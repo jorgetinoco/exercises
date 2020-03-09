@@ -1,4 +1,4 @@
-### Steps to get a matrix of 1
+# Steps to get a matrix of 1
 
 Given a matrix of 1s and 0s, return the number of steps to make them all 1s.
 How a 0 converts to 1? if there's a 1 near (cross type: left, right, up or down) it can be converted to 1.
